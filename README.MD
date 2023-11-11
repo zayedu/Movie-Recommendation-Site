@@ -2,7 +2,7 @@
 
 ![Project Screenshot](Movie-Recommendation-Demo.png)
 
-##Check out this project [here](https://zayedtv.streamlit.app/)
+## Check out this project [here](https://zayedtv.streamlit.app/)
 
 ## Overview
 
